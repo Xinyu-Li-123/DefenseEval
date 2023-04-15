@@ -1,4 +1,5 @@
 {
+    "experiment_name": "example",
     "dataset": {
         "name": "sst"
     },

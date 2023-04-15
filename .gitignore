@@ -1,5 +1,7 @@
 venv/
 __pycache__/
+logs/
+data/
 
 draft*.py 
 *.pyc
