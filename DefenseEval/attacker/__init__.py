@@ -1,0 +1,1 @@
+from OpenAttack.attackers import PWWSAttacker

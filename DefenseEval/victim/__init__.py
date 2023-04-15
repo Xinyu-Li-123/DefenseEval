@@ -1,0 +1,1 @@
+from .vader import VaderSentimentIntensityClassifier

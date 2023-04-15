@@ -1,0 +1,15 @@
+{
+    "dataset": {
+        "name": "sst"
+    },
+    "victim": {
+        "model": "VaderSentimentIntensityClassifier"
+    },
+    "attacker": {
+        "model": "PWWSAttacker"
+    },
+    "defender": {
+        "model": "DNE",
+        "arch": "bert"
+    }
+}
