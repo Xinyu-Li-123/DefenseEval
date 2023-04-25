@@ -1,7 +1,9 @@
-venv/
+venv*/
 __pycache__/
 logs/
 data/
+# dir to saved embeddings or parameters of models
+saved/
 
 draft*.py 
 *.pyc

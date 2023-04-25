@@ -1,0 +1,16 @@
+{
+    "experiment_name": "example",
+    "dataset": {
+        "name": "sst"
+    },
+    "victim": {
+        "model": "CNNClassifier"
+    },
+    "attacker": {
+        "model": "PWWSAttacker"
+    },
+    "defender": {
+        "model": "DNE",
+        "arch": "bert"
+    }
+}
